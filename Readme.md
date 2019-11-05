@@ -15,7 +15,7 @@ Commit & push your working code. Then create a new branch, implement a new featu
 [Review the process here, if you need](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
 
-## Technical requirements
+Technical requirements
 
 Create a function that returns a random quote from the array of quotes that's given (check below "Sample Data"). Remember that there's a nice function for random numbers in the [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) for *Math.rand()*.
 
