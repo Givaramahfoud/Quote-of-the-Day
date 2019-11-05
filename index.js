@@ -12,7 +12,6 @@ const quotes = [
   "There is little success where there is little laughter.",
   "We cannot solve our problems with the same thinking we used when we created them."
 ];
-// console.log(quotes);
 
 const input = document.querySelector(".input");
 const button = document.querySelector(".btn-primary");
@@ -29,4 +28,3 @@ input.textContent = randomQuotes;
 input.style.backgroundColor = "red";
 input.style.borderRadius = "50px";
 input.style.border = "dashed 3px black";
-button.style.display = "grid";
